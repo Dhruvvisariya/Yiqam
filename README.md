@@ -30,7 +30,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-[Your Name]
+Dhruv visariya
 
 Feel free to contribute to the project by submitting pull requests or reporting issues.
 
