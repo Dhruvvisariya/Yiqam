@@ -24,10 +24,6 @@ This project is an object-oriented approach to solving physics problems based on
 
 This project was developed using Turbo C++ IDE, an older version of C++. It might require adjustments to work with modern C++ compilers.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Author
 
 Dhruv visariya
